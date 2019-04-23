@@ -19,14 +19,14 @@ echo  ^| ^|/ ^|/ / /_/ / /  / / / / / / / / /_/ /_/_/_/
 echo  ^|__/^|__/\__,_/_/  /_/ /_/_/_/ /_/\__, (_^|_^|_)   
 echo                                  /____/           
 echo.
-echo ¬Ý¨Ó§A¥´ºâ§Q¥Î¨t²ÎºÞ²z­û¨­¤À°õ¦æ³o­Óµ{¦¡,§Æ±æ§A©ú¥Õ¦Û¤v¦b°µ¤°»ò
+echo ì´ í”„ë¡œê·¸ëž¨ì„ ì‹¤í–‰í•˜ê¸° ìœ„í•´ ì‹œìŠ¤í…œ ê´€ë¦¬ìžë¥¼ ì‚¬ìš©í•˜ë ¤ëŠ” ê²ƒ ê°™ìŠµë‹ˆë‹¤. ê·€í•˜ê°€ ë¬´ì—‡ì„í•˜ê³  ìžˆëŠ”ì§€ ì´í•´í•˜ê¸°ë¥¼ ë°”ëžë‹ˆë‹¤.
 echo Looks like you want to proceed with administrator privileges, hope you know what you are doing.
-echo ¦pªG¾Þ§@¤£·í,¥i¯à·|¾É­PÂÅ«Ì©Î¾É­P©|¥¼Àx¦sªº¤u§@¿ò¥¢
+echo ë¶€ì ì ˆí•œ ì¡°ìž‘ìœ¼ë¡œ ì¸í•´ íŒŒëž€ í™”ë©´ì´ ë‚˜ ì €ìž¥ë˜ì§€ ì•Šì€ ìž‘ì—…ì´ ì†ì‹¤ë  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
 echo If you do something wrong, you may cause BSOD or lose your unsaved work.
-echo ­Y±zÄ±±o¥»µ{¦¡¤£¦w¥þ,½Ð°¨¤W«ö¤Uµøµ¡¥k¤W¨¤ªº¤j¤e¤e
+echo ì´ í”„ë¡œê·¸ëž¨ì´ ì•ˆì „í•˜ì§€ ì•Šë‹¤ê³  ìƒê°ë˜ë©´ ì°½ ì˜¤ë¥¸ìª½ ìƒë‹¨ì—ìžˆëŠ” í° í¬í¬ë¥¼ ì¦‰ì‹œ ëˆ„ë¥´ì‹­ì‹œì˜¤.
 echo If you think this program is not safe, please press the big X botton on the top-right of this window.
 echo.
-echo «ö¤U¥ô·NÁä¥HÄ~Äò... (10¬í«á±N¦Û°Ê°õ¦æ)
+echo ê³„ì†í•˜ë ¤ë©´ ì•„ë¬´ í‚¤ë‚˜ ëˆ„ë¥´ì‹­ì‹œì˜¤ (10 ì´ˆ í›„ì— ìžë™ìœ¼ë¡œ ì‹¤í–‰ë©ë‹ˆë‹¤)
 echo Press any botton to procced... (Auto start at 10 seconds.)
 timeout /T 10 >nul
 goto language
@@ -39,16 +39,16 @@ echo    / /^| ^|/ __/ __/ _ \/ __ \/ __/ / __ \/ __ \/ / / /
 echo   / ___ / /_/ /_/  __/ / / / /_/ / /_/ / / / /_/_/_/  
 echo  /_/  ^|_\__/\__/\___/_/ /_/\__/_/\____/_/ /_(_^|_^|_)   
 echo.
-echo ¬Ý°_¨Ó§A¨S¦³¨t²ÎºÞ²z­ûÅv­­,¤£¹L³o­Óµ{¦¡ÁÙ¬O¯à°÷¹B§@ªº
+echo ì‹œìŠ¤í…œ ê´€ë¦¬ìž ê¶Œí•œì´ ì—†ëŠ” ê²ƒ ê°™ì§€ë§Œì´ í”„ë¡œê·¸ëž¨ì€ ì—¬ì „ížˆ ìž‘ë™í•©ë‹ˆë‹¤.
 echo Looks like you don't have administrator privileges. But this program can still functional.
-echo ¦pªG§A¹J¨ì¦³³B²zµ{§Ç»Ý­nºÞ²z­ûµ{§Ç¤~¯à²×¤î,½Ð¤â°Êµ¹¤©¥»µ{¦¡¨t²ÎºÞ²z­ûÅv­­
+echo ê´€ë¦¬ìžê°€ ì¢…ë£Œí•´ì•¼ í•˜ëŠ” ì²˜ë¦¬ê¸°ê°€ ë°œìƒí•˜ë©´ ìˆ˜ë™ìœ¼ë¡œ í”„ë¡œê·¸ëž¨ ì‹œìŠ¤í…œ ê´€ë¦¬ìž ê¶Œí•œì„ ë¶€ì—¬í•˜ì‹­ì‹œì˜¤.
 echo If you meet some process that need administrator privileges to terminate, please give this program administrator privileges manually.
-echo ­Y¨S¦³ªº¸Ü,¤£·íªº¾Þ§@¤´µM¦³¥i¯à·|¾É­P©|¥¼Àx¦sªº¤u§@¿ò¥¢
+echo ê·¸ë ‡ì§€ ì•Šì€ ê²½ìš° ë¶€ì ì ˆí•œ ìž‘ì—…ìœ¼ë¡œ ì¸í•´ ì•„ì§ ì €ìž¥ë˜ì§€ ì•Šì€ ìž‘ì—…ì´ ì†ì‹¤ ë  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
 echo Otherwise, if you do something wrong you may lose your unsaved work.
-echo ­Y±zÄ±±o¥»µ{¦¡¤£¦w¥þ,½Ð°¨¤W«ö¤Uµøµ¡¥k¤W¨¤ªº¤j¤e¤e
+echo ì´ í”„ë¡œê·¸ëž¨ì´ ì•ˆì „í•˜ì§€ ì•Šë‹¤ê³  ìƒê°ë˜ë©´ ì°½ ì˜¤ë¥¸ìª½ ìƒë‹¨ì—ìžˆëŠ” í° í¬í¬ë¥¼ ì¦‰ì‹œ ëˆ„ë¥´ì‹­ì‹œì˜¤.
 echo If you think this program is not safe, please press the big X botton on the top-right of this window.
 echo.
-echo «ö¤U¥ô·NÁä¥HÄ~Äò... (10¬í«á±N¦Û°Ê°õ¦æ)
+echo ê³„ì†í•˜ë ¤ë©´ ì•„ë¬´ í‚¤ë‚˜ ëˆ„ë¥´ì‹­ì‹œì˜¤ (10 ì´ˆ í›„ì— ìžë™ìœ¼ë¡œ ì‹¤í–‰ë©ë‹ˆë‹¤)
 echo Press any botton to procced... (Auto start at 10 seconds.)
 timeout /T 10 >nul
 goto language
@@ -73,13 +73,13 @@ echo  #       #####  #    # #      #           #      #    #  #   # #      #    
 echo  #       #   #  #    # #    # #      #    # #    #    #   #  # #      #      #      #   #  
 echo  #       #    #  ####   ####  ######  ####   ####     #    # # ###### ###### ###### #    # 
 echo.
-echo Åwªï¨Ï¥Î¥»µ{¦¡¡I½Ð¿é¤J¿ï¶µ:
-echo 1. ¦Û¦æ¿é¤J­n²×¤îªº³B²zµ{§Ç(µ{§Ç¦WºÙ)
-echo 2. ¦Û¦æ¿é¤J­n²×¤îªº³B²zµ{§Ç(PID)
-echo 3. Â÷¶}
+echo ì´ í”„ë¡œê·¸ëž¨ì— ì˜¤ì‹  ê²ƒì„ í™˜ì˜í•©ë‹ˆë‹¤! ì˜µì…˜ì„ ìž…ë ¥í•˜ì‹­ì‹œì˜¤ :
+echo 1. ì¢…ë£Œí•  í”„ë¡œì„¸ìŠ¤ë¥¼ ìž…ë ¥í•˜ì‹­ì‹œì˜¤(í”„ë¡œê·¸ëž¨ ì´ë¦„).
+echo 2. ì§ì ‘ ì¢…ë£Œí•  í”„ë¡œì„¸ìŠ¤(PID)ë¥¼ ìž…ë ¥í•˜ì‹­ì‹œì˜¤.
+echo 3. ë‚˜ê°€ê¸°
 echo.
-echo 0. §@ªÌ¸ê°T
-choice /N /C 1230 /M ¿ï¶µ:
+echo 0. ìž‘ì„±ìž ì •ë³´
+choice /N /C 1230 /M ì˜µì…˜:
 if %ERRORLEVEL% EQU 4 goto 0_zhtw
 if %ERRORLEVEL% EQU 3 goto 3_zhtw
 if %ERRORLEVEL% EQU 2 goto 2_zhtw
@@ -88,34 +88,34 @@ if %ERRORLEVEL% EQU 1 goto 1_zhtw
 
 :1_zhtw
 cls
-set /p processname=¿é¤J§A·Q­n²×¤îªº³B²zµ{§Ç¦WºÙ(¤£¥]§tµ²§Àªº.exe):
+set /p processname=ì¢…ë£Œí•  í”„ë¡œì„¸ìŠ¤ì˜ ì´ë¦„ì„ ìž…ë ¥í•˜ì‹­ì‹œì˜¤(ì¢…ë£Œ .exe ì œì™¸).:
 taskkill /im %processname%.exe /f >nul 2>&1
 if errorlevel 1 (
-	echo ³B²zµ{¦¡¤¤¤î¥¢±Ñ... ¤]³\¸Ó³B²zµ{§Ç­ì¥»´N¤£¦s¦b?
+	echo í”„ë¡œì„¸ìŠ¤ê°€ ì¤‘ë‹¨ë˜ì—ˆìŠµë‹ˆë‹¤ ... í”„ë¡œì„¸ìŠ¤ê°€ ì¡´ìž¬í•˜ì§€ ì•Šì•˜ì„ ìˆ˜ ìžˆìŠµë‹ˆê¹Œ?
 ) else (
-	echo ³B²zµ{§Ç¤¤¤î¦¨¥\...
+	echo í•¸ë“¤ëŸ¬ê°€ ì„±ê³µì ìœ¼ë¡œ ì¤‘ë‹¨ë˜ì—ˆìŠµë‹ˆë‹¤ ...
 )
-echo «ö¥ô·NÁäÃö³¬µøµ¡...
+echo ì•„ë¬´ í‚¤ë‚˜ ëˆ„ë¥´ë©´ ì°½ì„ ë‹«ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤ ...
 pause >nul
 exit
 
 :2_zhtw
 cls
-set /p processpid=¿é¤J§A·Q­n²×¤îªº³B²zµ{§ÇªºPID:
+set /p processpid=ì¢…ë£Œí•˜ë ¤ëŠ” í•¸ë“¤ëŸ¬ì˜ PIDë¥¼ ìž…ë ¥í•˜ì‹­ì‹œì˜¤.:
 taskkill /pid %processpid% /f >nul 2>&1
 if errorlevel 1 (
-	echo ³B²zµ{¦¡¤¤¤î¥¢±Ñ... ¤]³\¸Ó³B²zµ{§Ç­ì¥»´N¤£¦s¦b?
+	echo ì²˜ë¦¬ê¸°ê°€ ì¤‘ë‹¨ë˜ì—ˆìŠµë‹ˆë‹¤ ... ì²˜ë¦¬ê¸°ê°€ ì¡´ìž¬í•˜ì§€ ì•Šì•˜ì„ ìˆ˜ ìžˆìŠµë‹ˆê¹Œ?
 ) else (
-	echo ³B²zµ{§Ç¤¤¤î¦¨¥\...
+	echo ì²˜ë¦¬ê¸°ê°€ ì„±ê³µì ìœ¼ë¡œ ì¤‘ë‹¨ë˜ì—ˆìŠµë‹ˆë‹¤....
 )
-echo «ö¥ô·NÁäÃö³¬µøµ¡...
+echo ì•„ë¬´ í‚¤ë‚˜ ëˆŒëŸ¬ ì°½ì„ ë‹«ìŠµë‹ˆë‹¤....
 pause >nul
 exit
 
 :3_zhtw
 cls
-echo ¤w¨ú®ø...
-echo «ö¥ô·NÁäÃö³¬µøµ¡...
+echo ì·¨ì†Œë¨...
+echo ì•„ë¬´ í‚¤ë‚˜ ëˆŒëŸ¬ ì°½ì„ ë‹«ìŠµë‹ˆë‹¤....
 pause >nul
 exit
 
@@ -146,16 +146,16 @@ echo                                             `/syys/.              .:.
 echo                                            `+yyyo.                  ..    
 echo                                           `+syys.                    `    
 echo                                           -syyy/                          
-echo                                           :yyyy-       §@ªÌ:Ãö@Kuan(sean22922)
-echo                                           -syyy:       ¤p«Îºô§}:https://home.gamer.com.tw/sean22922
+echo                                           :yyyy-       ì €ìž:é—œ@Kuan(sean22922)
+echo                                           -syyy:       ìºë¹ˆ URL:https://home.gamer.com.tw/sean22922
 echo                                           .oyyys`      Github:https://github.com/sean22922
-echo                                            :syyy+`     Copyright (c) 2018 Sean Kuan. ¥»µ{¦¡¨Ï¥ÎMIT±ÂÅv±ø´Ú¡C
-echo                                             :syyso.    (¤Ú«¢©i¯S¹qª±¸ê°T¯¸¤§¹Ï¼Ëª©Åv«D¥»¤H©Ò¾Ö¦³)
+echo                                            :syyy+`     Copyright (c) 2018 Sean Kuan. ì´ í”„ë¡œê·¸ëž¨ì€ MIT ë¼ì´ì„¼ìŠ¤ ì¡°í•­ì„ ì‚¬ìš©í•©ë‹ˆë‹¤.
+echo                                             :syyso.    (å·´å“ˆå§†ç‰¹é›»çŽ©è³‡è¨Šç«™ ì˜ ì €ìž‘ê¶Œì€ ì €ì˜ ì†Œìœ ê°€ ì•„ë‹™ë‹ˆë‹¤.)
 echo                                              .+syys+-`                    
 echo                                                .+ssyss/:.``````.-.        
 echo                                                  `.:+ossysso+/-.                       
 echo.
-echo «ö¥ô·NÁäÃö³¬µøµ¡...
+echo ì•„ë¬´ í‚¤ë‚˜ ëˆŒëŸ¬ ì°½ì„ ë‹«ìŠµë‹ˆë‹¤....
 pause >nul
 exit
 
@@ -243,11 +243,11 @@ echo                                             `/syys/.              .:.
 echo                                            `+yyyo.                  ..    
 echo                                           `+syys.                    `    
 echo                                           -syyy/                          
-echo                                           :yyyy-       Author:Ãö@Kuan(sean22922)
+echo                                           :yyyy-       Author:é—œ@Kuan(sean22922)
 echo                                           -syyy:       Website:https://home.gamer.com.tw/sean22922
 echo                                           .oyyys`      Github:https://github.com/sean22922
 echo                                            :syyy+`     Copyright (c) 2018 Sean Kuan. This program is licensed under the MIT License.
-echo                                             :syyso.    (The "¤Ú«¢©i¯S¹qª±¸ê°T¯¸" logo's copyright does not belong to me)
+echo                                             :syyso.    (The "å·´å“ˆå§†ç‰¹é›»çŽ©è³‡è¨Šç«™" logo's copyright does not belong to me)
 echo                                              .+syys+-`                    
 echo                                                .+ssyss/:.``````.-.        
 echo                                                  `.:+ossysso+/-.                       
